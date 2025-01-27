@@ -24,6 +24,13 @@ header {
   border: 5px solid white
 }
 
+.objective{
+  background-color: #f7f7f7; /* light gray */
+  border: 1px solid #ddd;
+  padding: 20px;
+  margin-top; 40px;
+}
+
 .summary {
   background-color: #f7f7f7; /* light gray */
   border: 1px solid #ddd;
